@@ -1,0 +1,12 @@
+.vs/
+Binaries/
+Build/
+Intermediate/
+*.sdf
+*.opensdf
+*.sln
+*.suo
+*.pdb
+*.exe
+*.log
+*.target.xml
